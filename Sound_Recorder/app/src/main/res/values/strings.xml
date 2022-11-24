@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sound_Recorder</string>
+    <string name="sound_recorder">Sound Recorder</string>
+    <string name="start_recording">Start Recording</string>
+    <string name="stop_recording">Stop Recording</string>
+    <string name="start_playing">Start Playing</string>
+    <string name="stop_playing">Stop Playing</string>
+    <string name="soundico">SOUNDICO</string>
+    <string name="todo">TODO</string>
+    <string name="sbtn">sbtn</string>
+    <string name="pbtn">pbtn</string>
+    <string name="srcg">srcg</string>
+    <string name="prcg">prcg</string>
+    <string name="record_and_relive_your_moments_anytime">Record and Relive your moments anytime</string>
+    <string name="next">next</string>
+    <string name="list">LIST</string>
+    <string name="musicpplayer">musicpplayer</string>
+    <string name="music_player">music player</string>
+</resources>
